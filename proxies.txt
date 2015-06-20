@@ -1,0 +1,22 @@
+livestreamer —retry-streams 5 http://www.twitch.tv/monkeydrone worst&
+livestreamer —retry-streams 5 http://www.twitch.tv/monkeydrone worst&
+livestreamer —retry-streams 5 —http-proxy 65.60.0.26:21297 http://www.twitch.tv/monkeydrone worst&
+livestreamer —retry-streams 5 —http-proxy 65.60.0.26:21297 http://www.twitch.tv/monkeydrone worst&
+livestreamer —retry-streams 5 —http-proxy 204.45.103.70:21283 http://www.twitch.tv/monkeydrone worst&
+livestreamer —retry-streams 5 —http-proxy 204.45.103.70:21283 http://www.twitch.tv/monkeydrone worst&
+livestreamer —retry-streams 5 —http-proxy 108.178.58.58:21264 http://www.twitch.tv/monkeydrone worst&
+livestreamer —retry-streams 5 —http-proxy 108.178.58.58:21264 http://www.twitch.tv/monkeydrone worst&
+livestreamer —retry-streams 5 —http-proxy 204.45.211.219:21281 http://www.twitch.tv/monkeydrone worst&
+livestreamer —retry-streams 5 —http-proxy 204.45.211.219:21281 http://www.twitch.tv/monkeydrone worst&
+livestreamer —retry-streams 5 —http-proxy 192.69.90.153:21328 http://www.twitch.tv/monkeydrone worst&
+livestreamer —retry-streams 5 —http-proxy 192.69.90.153:21328 http://www.twitch.tv/monkeydrone worst&
+livestreamer —retry-streams 5 —http-proxy 173.234.152.9:21230 http://www.twitch.tv/monkeydrone worst&
+livestreamer —retry-streams 5 —http-proxy 173.234.152.9:21230 http://www.twitch.tv/monkeydrone worst&
+livestreamer —retry-streams 5 —http-proxy 23.108.1.78:21321 http://www.twitch.tv/monkeydrone worst&
+livestreamer —retry-streams 5 —http-proxy 23.108.1.78:21321 http://www.twitch.tv/monkeydrone worst&
+livestreamer —retry-streams 5 —http-proxy 173.234.90.103:21281 http://www.twitch.tv/monkeydrone worst&
+livestreamer —retry-streams 5 —http-proxy 173.234.90.103:21281 http://www.twitch.tv/monkeydrone worst&
+livestreamer —retry-streams 5 —http-proxy 23.105.172.77:21328 http://www.twitch.tv/monkeydrone worst&
+livestreamer —retry-streams 5 —http-proxy 23.105.172.77:21328 http://www.twitch.tv/monkeydrone worst&
+livestreamer —retry-streams 5 —http-proxy 142.0.39.124:21329 http://www.twitch.tv/monkeydrone worst&
+livestreamer —retry-streams 5 —http-proxy 142.0.39.124:21329 http://www.twitch.tv/monkeydrone worst&
